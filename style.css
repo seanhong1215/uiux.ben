@@ -145,8 +145,6 @@ p{
   transition: all .7s ease;
 } */
 
-
-
 .card-item-media-overlay{
   position: absolute;
   z-index: 1;
@@ -175,8 +173,6 @@ p{
   font-size: 20px;
   margin-top: -35px;
   opacity: 0;
-  width: 100%;
-  font-size: 16px;
 }
 .card-item-media .txt p{
   color: #ccc;
